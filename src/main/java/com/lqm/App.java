@@ -13,7 +13,7 @@ public class App
         System.out.println("彩票随机数打印！");
         System.out.println("请选择彩票类型");
         System.out.println("A: 双色球");
-        System.out.println("B: 大乐透");//提交到本地仓库 修改本地，提交缓存，然后用本地仓库替换缓存
+        System.out.println("B: 大乐透");//提交到本地仓库
         Boolean again = false;
         Scanner sc = new Scanner(System.in);
         String type = "";
