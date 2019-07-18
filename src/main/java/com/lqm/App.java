@@ -11,7 +11,7 @@ public class App
     public static void main( String[] args ){
 
         System.out.println("彩票随机数打印！");//master修改提交
-        System.out.println("请选择彩票类型");
+        System.out.println("请选择彩票类型");//1010修改提交
         System.out.println("A: 双色球");
         System.out.println("B: 大乐透");//提交到本地仓库 拉分支修改提交
         Boolean again = false;
