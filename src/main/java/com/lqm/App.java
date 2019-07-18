@@ -24,6 +24,7 @@ public class App
             }else {
                 System.out.println("选择类型不存在！请重新选择：");
                 System.out.println("A: 双色球");
+                
                 System.out.println("B: 大乐透");
             }
 
