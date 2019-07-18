@@ -10,7 +10,6 @@ public class App
 {
     public static void main( String[] args ){
 
-
         System.out.println("彩票随机数打印！");
         System.out.println("请选择彩票类型！");
         System.out.println("A: 双色球");
